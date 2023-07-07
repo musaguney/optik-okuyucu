@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 24 13:38:45 2021
 
-@author: yazılım
-"""
-
-
-"""
-
-utils
-
-"""
 
 import cv2
 
